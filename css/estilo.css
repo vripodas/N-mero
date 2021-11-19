@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 55px;
+    /* background-color: rgba(19, 245, 38, 0.7); */
+    background: linear-gradient(to right, rgb(36, 3, 18), rgb(48, 46, 43));
+}
+
+h2 {
+
+}
+
